@@ -41,11 +41,11 @@ This tracking tool can provide information about the telephone number you entere
 
 # Installation in termux
 ```python
-[+] pkg update && pkg upgrade -y
-[+] apt list --upgradable 
-[+] pkg install python -y
-[+] pkg install git -y
-[+] git clone https://github.com/IccTeam/OwlTrack
+ pkg update && pkg upgrade -y
+ apt list --upgradable 
+ pkg install python -y
+ pkg install git -y
+ git clone https://github.com/IccTeam/OwlTrack
 ```
 # How to using
 ```
